@@ -1,0 +1,78 @@
+# General DevOps Questions at HCL
+
+* **Question:** What is providers and write a code?
+
+* **Question:** What is data variable?
+
+* **Question:** What is linter?
+
+* **Question:** What is pool ?
+
+* **Question:** What is peering ?
+
+* **Question:** What is life cycle block?
+
+* **Question:** What is linting? - TFLint
+
+* **Question:** What is the difference between a push and a commit in version control systems? Is it will imapct our current infra structure or not ?
+
+* **Question:** Is it will impact our current infra structure or not ?
+
+* **Question:** What's is stateless and statefull in k8
+
+* **Question:** St round HCL question...1.what is module?
+
+* **Question:** Can you write is Yaml File and explain?
+
+* **Question:** Introduce your self.
+
+* **Question:** Implicit and explicit dependencies (share syntax).
+
+* **Question:** Locking mechanism / lock file - what is it and why created.
+
+* **Question:** What is sprint / work item, difference between sprint and work item?
+
+* **Question:** What is the difference between a push and a commit in version control systems?
+
+* **Question:** As architect setting up infra - what solution would you provide to customer.
+
+* **Question:** Is macOS supported as agent pool?
+
+* **Question:** Will it impact current infrastructure or not?
+
+* **Question:** Need to create 10 storage accounts - what data type should you use.
+
+* **Question:** Is count only work on integers?
+
+* **Question:** Why deleting in count is difficult?
+
+* **Question:** What is life cycle block (2-3 arguments), storage account scenario?
+
+* **Question:** Implicit and explicit dependencies.
+
+* **Question:** Manage a set of PVs in ns “lab” using SA “testsa”.
+
+* **Question:** Cluster role binding.
+
+* **Question:** Write a Yaml File and explain.
+
+* **Question:** What is pool?
+
+* **Question:** Github - workflow and dispatch.
+
+* **Question:** Diff between list and map.
+
+* **Question:** GitHub Action idea - working or not, event and syntax.
+
+* **Question:** Microservices basics.
+
+* **Question:** Linux Scripting experience - bash and powershell.
+
+* **Question:** Have you worked on powershell?
+
+* **Question:** Powershell/bash scripting idea.
+
+* **Question:** Networking How we can stop all outgoing traffic from azure VM without NSG (Ans - by firewall and route
+
+* **Question:** table)?
+
