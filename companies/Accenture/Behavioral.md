@@ -1,16 +1,15 @@
 # Behavioral Questions at Accenture
 
-* **Question:** Introduce yourself.
+--> Introduce yourself.
 
-* **Question:** Explain your skills, day-to-day activities, and your role and responsibilities in your current project.
+--> Explain your skills, day-to-day activities, and your role and responsibilities in your current project.
 
-* **Question:** How do you manage your team’s day-to-day activities?
+--> How do you manage your team’s day-to-day activities?
 
-* **Question:** Explain your skills, experience, current role, and day-to-day responsibilities.
+--> Explain your end-to-end responsibilities in the project.
 
-* **Question:** Explain your end-to-end responsibilities in the project.
+--> What are your weak points?
 
-* **Question:** What are your weak points?
+--> What are your strengths?
 
-* **Question:** What are your strengths?
-
+--> How do you handle your current project?

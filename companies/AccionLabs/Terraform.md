@@ -1,6 +1,6 @@
 # Terraform Questions at AccionLabs
 
-* **Question:** What is Terraform drift?
+--> What is Terraform drift?
 
-* **Question:** Explain Terraform architecture.
+--> Explain Terraform architecture.
 

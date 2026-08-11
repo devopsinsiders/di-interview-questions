@@ -1,6 +1,6 @@
 # Behavioral Questions at AccionLabs
 
-* **Question:** Introduce yourself.
+--> Introduce yourself.
 
-* **Question:** What are your current roles and responsibilities?
+--> What are your current roles and responsibilities?
 
