@@ -1,4 +1,4 @@
 # Behavioral Questions at Capgemini
 
-* **Question:** Tell me about yourself.
+--> Tell me about yourself.
 

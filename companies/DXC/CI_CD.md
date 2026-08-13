@@ -1,4 +1,5 @@
 # CI/CD Questions at DXC
 
-* **Question:** Rate yourself in CI/CD out of 10.
+--> Rate yourself in CI/CD out of 10.
 
+--> How do you design a CI/CD pipeline?

@@ -1,8 +1,12 @@
 # Azure Questions at Atlas Copco
 
-* **Question:** Difference between application gateway and load balancer.
+--> Difference between application gateway and load balancer.
 
-* **Question:** What is Service Principal in ADO and what does it do?
+--> What is Service Principal in ADO and what does it do?
 
-* **Question:** What are the key components in Azure Pipelines.
+--> What are the key components in Azure Pipelines.
+
+--> What is workload identity federation.
+
+--> What is Gateway service and how it can be utilised.
 

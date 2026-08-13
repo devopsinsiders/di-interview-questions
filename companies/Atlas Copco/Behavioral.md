@@ -1,4 +1,5 @@
 # Behavioral Questions at Atlas Copco
 
-* **Question:** Tell me about yourself and any of your recent achievements.
+--> Tell me about yourself and any of your recent achievements.
 
+--> Have you handled teams in your projects?

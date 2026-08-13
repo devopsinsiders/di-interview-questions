@@ -1,40 +1,32 @@
 # General DevOps Questions at DXC
 
-* **Question:** How do you handle it?
+--> Azure Which branching strategy do you recommend in Azure DevOps?
 
-* **Question:** Explain all stages.
+--> Do you have experience with Azure RBAC?
 
-* **Question:** CI/CD Rate yourself in CI/CD out of 10.
+--> How do you manage secrets? (Azure Key Vault)?
 
-* **Question:** How do you design a CI/CD pipeline?
+--> Terraform Rate yourself in Terraform out of 10.
 
-* **Question:** Azure Which branching strategy do you recommend in Azure DevOps?
+--> How do you troubleshoot a failed Terraform deployment? (Step by step)?
 
-* **Question:** Do you have experience with Azure RBAC?
+--> Explain one real-time Terraform issue you fixed recently.
 
-* **Question:** How do you manage secrets? (Azure Key Vault)?
+--> Terraform state file is corrupted in production.
 
-* **Question:** Terraform Rate yourself in Terraform out of 10.
+--> Which Terraform commands are used to restore the state file?
 
-* **Question:** How do you troubleshoot a failed Terraform deployment? (Step by step)?
+--> During deployment, Terraform accidentally deleted the Application Gateway.
 
-* **Question:** Explain one real-time Terraform issue you fixed recently.
+--> How does the Terraform state file work in an enterprise environment?
 
-* **Question:** Terraform state file is corrupted in production.
+--> What is Infrastructure Drift?
 
-* **Question:** Which Terraform commands are used to restore the state file?
+--> How do you detect and fix Infrastructure Drift?
 
-* **Question:** During deployment, Terraform accidentally deleted the Application Gateway.
+--> Security What are the built-in RBAC roles?
 
-* **Question:** How does the Terraform state file work in an enterprise environment?
+--> Production Support How will you handle the production outage?
 
-* **Question:** What is Infrastructure Drift?
-
-* **Question:** How do you detect and fix Infrastructure Drift?
-
-* **Question:** Security What are the built-in RBAC roles?
-
-* **Question:** Production Support How will you handle the production outage?
-
-* **Question:** 28
+--> 28
 
