@@ -1,6 +1,6 @@
 # Version Control Questions at Bosch Azure DevOps (02-08-2026)
 
---> What is branching?
+Q . What is branching?
 
---> What is Git, and how do you run code using Git?
+Q . What is Git, and how do you run code using Git?
 

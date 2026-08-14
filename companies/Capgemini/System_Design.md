@@ -1,4 +1,4 @@
 # System Design Questions at Capgemini
 
---> What is MCP (Model Context Protocol)?
+Q . What is MCP (Model Context Protocol)?
 

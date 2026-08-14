@@ -1,12 +1,15 @@
 # Kubernetes Questions at Capgemini
 
---> AKS nodes are stuck in NotReady state. What would you check?
+Q  .  AKS nodes are stuck in NotReady state. What would you check?
 
---> An AKS production cluster needs an upgrade with zero downtime. How would you perform it?
+Q  .  An AKS production cluster needs an upgrade with zero downtime. How would you perform it?
 
---> How does AKS read secrets from Azure Key Vault?
+Q  .  How does AKS read secrets from Azure Key Vault?
 
---> Why use a Pod Disruption Budget (PDB)?
+Q  .  Why use a Pod Disruption Budget (PDB)?
 
---> What happens if there is only one pod replica during an AKS upgrade?
+Q  .  What happens if there is only one pod replica during an AKS upgrade?
+
+Q  .  Why use the Azure Key Vault CSI Driver?
+
 

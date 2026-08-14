@@ -1,6 +1,6 @@
 # CI/CD Questions at Atlas Copco
 
---> What are the stages of a Infra Pipeline.
+Q . What are the stages of a Infra Pipeline.
 
 
 

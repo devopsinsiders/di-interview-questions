@@ -1,8 +1,8 @@
 # Kubernetes Questions at Bupa (31-07-2026)
 
---> How would you resolve the issue if two pods are unable to talk to each other?
+Q . How would you resolve the issue if two pods are unable to talk to each other?
 
---> What is an AKS cluster?
+Q . What is an AKS cluster?
 
---> Have you worked on Kubernetes?
+Q . Have you worked on Kubernetes?
 

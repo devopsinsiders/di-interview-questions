@@ -1,6 +1,6 @@
 # Security Questions at Atlas Copco
 
---> Which service would you use to store password and secrets?
+Q . Which service would you use to store password and secrets?
 
---> Which service would you use to store certificates?
+Q . Which service would you use to store certificates?
 

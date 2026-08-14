@@ -1,21 +1,20 @@
 # Networking Questions at Cognizant
 
---> How do you ensure all outbound traffic passes through Azure Firewall?
+Q . What is the role of User Defined Routes (UDRs)?
 
---> How do you design centralized egress traffic through Azure Firewall?
+Q . How do you ensure all outbound traffic passes through Azure Firewall?
 
---> Explain the complete packet flow when traffic is forced through Azure Firewall.
+Q . How do you design centralized egress traffic through Azure Firewall?
 
---> How do you pass values from one module (e.g., VNet) to another module (e.g., VM)?
+Q . Explain the complete packet flow when traffic is forced through Azure Firewall.
 
---> Explain the complete Azure Firewall routing design.
+Q . How do you pass values from one module (e.g., VNet) to another module (e.g., VM)?
 
---> Your Azure Key Vault is behind a Private Endpoint. How will a Microsoft Hosted Agent access it?
+Q . Explain the complete Azure Firewall routing design.
 
---> Will a Microsoft Hosted Agent be able to access a Private Endpoint directly?
+Q . Your Azure Key Vault is behind a Private Endpoint. How will a Microsoft Hosted Agent access it?
 
---> Design a secure pipeline that accesses Azure Key Vault over a Private Endpoint.
+Q . Will a Microsoft Hosted Agent be able to access a Private Endpoint directly?
 
---> Explain the Service Connection authentication flow.
-
+Q . Design a secure pipeline that accesses Azure Key Vault over a Private Endpoint.
 

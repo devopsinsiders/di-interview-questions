@@ -1,8 +1,8 @@
 # Networking Questions at Bosch Azure DevOps (02-08-2026)
 
---> What is Azure Bastion Service?
+Q . What is Azure Bastion Service?
 
---> What is VNet Peering?
+Q . What is VNet Peering?
 
---> What is Azure VPN Gateway?
+Q . What is Azure VPN Gateway?
 

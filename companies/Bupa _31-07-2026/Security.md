@@ -1,4 +1,4 @@
 # Security Questions at Bupa (31-07-2026)
 
---> How did you manage the secrets in your project?
+Q . How did you manage the secrets in your project?
 
