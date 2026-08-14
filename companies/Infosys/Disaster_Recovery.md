@@ -1,8 +1,6 @@
 # Disaster Recovery Questions at Infosys
 
-* **Question:** Production Support Your team is experiencing frequent production outages due to inconsistent environments and
+Q . Your team is experiencing frequent production outages due to inconsistent environments and manual deployments. What DevOps strategy would you implement? 
 
-* **Question:** manual deployments. What DevOps strategy would you implement? The application is deployed, but opening the URL shows an HTTP 500 Internal Server Error. How
-
-* **Question:** would you troubleshoot this?
+Q . The application is deployed, but opening the URL shows an HTTP 500 Internal Server Error. How would you troubleshoot this?
 
