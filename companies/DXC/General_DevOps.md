@@ -28,5 +28,7 @@
 
 --> Production Support How will you handle the production outage?
 
---> 28
+Q. How do you write/take a KQL query?
+
+Q. If a pipeline fails, what process do you follow? Which logs do you check and where do you check the failed logs?
 
