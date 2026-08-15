@@ -1,8 +1,8 @@
 # citrix to azure cloud pc) , Questions at Cohere Health
 
---> How would you communicate to a non tech stakeholder about an outage.
+Q . How would you communicate to a non tech stakeholder about an outage.
 
---> Explain an incident where you fixed an issue and restored the services.
+Q . Explain an incident where you fixed an issue and restored the services.
 
---> What was the last major activity you were part of?
+Q . What was the last major activity you were part of?
 

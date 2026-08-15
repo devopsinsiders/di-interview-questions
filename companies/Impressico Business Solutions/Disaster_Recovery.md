@@ -1,10 +1,10 @@
 # Disaster Recovery Questions at Impressico Business Solutions
 
-* **Question:** What is your Disaster Recovery strategy?
+Q .  What is your Disaster Recovery strategy?
 
-* **Question:** Why Active-Passive instead of Active-Active?
+Q .  Why Active-Passive instead of Active-Active?
 
-* **Question:** How do you synchronize the database in Active-Passive DR?
+Q .  How do you synchronize the database in Active-Passive DR?
 
-* **Question:** Explain RTO and RPO.
+Q .  Explain RTO and RPO.
 

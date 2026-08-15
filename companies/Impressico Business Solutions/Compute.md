@@ -1,8 +1,8 @@
 # Compute Questions at Impressico Business Solutions
 
-* **Question:** Are you using Virtual Machine Scale Sets (VMSS)?
+Q .  Are you using Virtual Machine Scale Sets (VMSS)?
 
-* **Question:** Are all VMs part of one VMSS or multiple VMSS?
+Q .  Are all VMs part of one VMSS or multiple VMSS?
 
-* **Question:** What workloads are running on each VMSS?
+Q .  What workloads are running on each VMSS?
 

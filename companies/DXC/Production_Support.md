@@ -1,4 +1,4 @@
 # Production Support Questions at DXC
 
---> How will you handle the production outage?
+Q . How will you handle the production outage?
 

@@ -1,8 +1,8 @@
 # Linux Questions at HCL
 
-* **Question:** Scripting experience - bash and powershell.
+Q .Scripting experience - bash and powershell.
 
-* **Question:** Have you worked on powershell?
+Q .Have you worked on powershell?
 
-* **Question:** Powershell/bash scripting idea.
+Q .Powershell/bash scripting idea.
 

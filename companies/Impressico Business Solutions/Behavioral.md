@@ -1,6 +1,6 @@
 # Behavioral Questions at Impressico Business Solutions
 
-* **Question:** What were your responsibilities in that project?
+Q .  What were your responsibilities in that project?
 
-* **Question:** What was the business requirement of the project?
+Q .  What was the business requirement of the project?
 

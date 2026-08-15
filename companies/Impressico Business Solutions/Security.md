@@ -1,6 +1,6 @@
 # Security Questions at Impressico Business Solutions
 
-* **Question:** What do SAST and DAST mean?
+Q .  What do SAST and DAST mean?
 
-* **Question:** Are SAST and DAST software or methodologies?
+Q .  Are SAST and DAST software or methodologies?
 

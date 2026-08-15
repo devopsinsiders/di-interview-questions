@@ -1,6 +1,6 @@
 # Docker Questions at Deloitte
 
---> How do you scan a Docker image?
+Q . How do you scan a Docker image?
 
---> A critical vulnerability is found in a production container image - what steps will you take?
+Q . A critical vulnerability is found in a production container image - what steps will you take?
 

@@ -1,10 +1,13 @@
 # AI Questions at KPMG (31-07-2026)
 
-* **Question:** performance degradation? Explain the concept of adversarial attacks on AI models and how you would defend against them in
+Q .  What strategies would you use to monitor AI models in production for security threats or performance 
+degradation? 
 
-* **Question:** a DevSecOps pipeline. How would you balance the need for rapid AI model deployment with maintaining strong security
+Q .  Explain the concept of adversarial attacks on AI models and how you would defend against them in a 
+DevSecOps pipeline.
 
-* **Question:** controls? What logging and auditing practices would you implement to support security and compliance in AI
+Q .  How would you balance the need for rapid AI model deployment with maintaining strong security 
+controls?
 
-* **Question:** model operations?
-
+Q .  What logging and auditing practices would you implement to support security and compliance in AI 
+model operations?

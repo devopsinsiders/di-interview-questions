@@ -1,12 +1,8 @@
 # System Design Questions at Impressico Business Solutions
 
-* **Question:** What is your Disaster Recovery strategy?
+Q .  What is your Disaster Recovery strategy?
 
-* **Question:** Project & Architecture.
+Q .  What was the project architecture?
 
-* **Question:** What was the project architecture?
-
-* **Question:** Disaster Recovery.
-
-* **Question:** Explain RTO and RPO.
+Q .  Explain RTO and RPO.
 

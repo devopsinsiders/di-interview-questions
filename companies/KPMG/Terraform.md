@@ -1,8 +1,8 @@
 # Terraform Questions at KPMG
 
-* **Question:** Explain your Terraform workflow.
+Q .  Explain your Terraform workflow.
 
-* **Question:** How do you manage Terraform State Files?
+Q .  How do you manage Terraform State Files?
 
-* **Question:** What is the best strategy for storing Terraform State remotely?
+Q .  What is the best strategy for storing Terraform State remotely?
 

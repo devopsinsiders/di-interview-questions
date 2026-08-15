@@ -1,10 +1,10 @@
 # Security Questions at Deloitte
 
---> Introduce yourself and explain your DevSecOps experience.
+Q . Introduce yourself and explain your DevSecOps experience.
 
---> What is SAST?
+Q . What is SAST?
 
---> What secret management solutions have you used?
+Q . What secret management solutions have you used?
 
---> How does TruffleHog work?
+Q . How does TruffleHog work?
 

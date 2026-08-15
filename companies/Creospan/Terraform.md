@@ -1,10 +1,10 @@
 # Terraform Questions at Creospan
 
---> How to manage state file?
+Q . How to manage state file?
 
---> Terrafom drift.
+Q . Terrafom drift.
 
---> How to backend communicate with database?
+Q . How to backend communicate with database?
 
---> create a storage account and write code for storing state file in blob storage …
+Q . create a storage account and write code for storing state file in blob storage …
 

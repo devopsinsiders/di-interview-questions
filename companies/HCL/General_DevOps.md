@@ -1,78 +1,77 @@
 # General DevOps Questions at HCL
 
-* **Question:** What is providers and write a code?
+Q .What is providers and write a code?
 
-* **Question:** What is data variable?
+Q .What is data variable?
 
-* **Question:** What is linter?
+Q .What is linter?
 
-* **Question:** What is pool ?
+Q .What is pool ?
 
-* **Question:** What is peering ?
+Q .What is peering ?
 
-* **Question:** What is life cycle block?
+Q .What is life cycle block?
 
-* **Question:** What is linting? - TFLint
+Q .What is linting? - TFLint
 
-* **Question:** What is the difference between a push and a commit in version control systems? Is it will imapct our current infra structure or not ?
+Q .What is the difference between a push and a commit in version control systems? Is it will imapct our current infra structure or not ?
 
-* **Question:** Is it will impact our current infra structure or not ?
+Q .Is it will impact our current infra structure or not ?
 
-* **Question:** What's is stateless and statefull in k8
+Q .What's is stateless and statefull in k8
 
-* **Question:** St round HCL question...1.what is module?
+Q .St round HCL question...1.what is module?
 
-* **Question:** Can you write is Yaml File and explain?
+Q .Can you write is Yaml File and explain?
 
-* **Question:** Introduce your self.
+Q .Introduce your self.
 
-* **Question:** Implicit and explicit dependencies (share syntax).
+Q .Implicit and explicit dependencies (share syntax).
 
-* **Question:** Locking mechanism / lock file - what is it and why created.
+Q .Locking mechanism / lock file - what is it and why created.
 
-* **Question:** What is sprint / work item, difference between sprint and work item?
+Q .What is sprint / work item, difference between sprint and work item?
 
-* **Question:** What is the difference between a push and a commit in version control systems?
+Q .What is the difference between a push and a commit in version control systems?
 
-* **Question:** As architect setting up infra - what solution would you provide to customer.
+Q .As architect setting up infra - what solution would you provide to customer.
 
-* **Question:** Is macOS supported as agent pool?
+Q .Is macOS supported as agent pool?
 
-* **Question:** Will it impact current infrastructure or not?
+Q .Will it impact current infrastructure or not?
 
-* **Question:** Need to create 10 storage accounts - what data type should you use.
+Q .Need to create 10 storage accounts - what data type should you use.
 
-* **Question:** Is count only work on integers?
+Q .Is count only work on integers?
 
-* **Question:** Why deleting in count is difficult?
+Q .Why deleting in count is difficult?
 
-* **Question:** What is life cycle block (2-3 arguments), storage account scenario?
+Q .What is life cycle block (2-3 arguments), storage account scenario?
 
-* **Question:** Implicit and explicit dependencies.
+Q .Implicit and explicit dependencies.
 
-* **Question:** Manage a set of PVs in ns “lab” using SA “testsa”.
+Q .Manage a set of PVs in ns “lab” using SA “testsa”.
 
-* **Question:** Cluster role binding.
+Q .Cluster role binding.
 
-* **Question:** Write a Yaml File and explain.
+Q .Write a Yaml File and explain.
 
-* **Question:** What is pool?
+Q .What is pool?
 
-* **Question:** Github - workflow and dispatch.
+Q .Github - workflow and dispatch.
 
-* **Question:** Diff between list and map.
+Q .Diff between list and map.
 
-* **Question:** GitHub Action idea - working or not, event and syntax.
+Q .GitHub Action idea - working or not, event and syntax.
 
-* **Question:** Microservices basics.
+Q .Microservices basics.
 
-* **Question:** Linux Scripting experience - bash and powershell.
+Q .Linux Scripting experience - bash and powershell.
 
-* **Question:** Have you worked on powershell?
+Q .Have you worked on powershell?
 
-* **Question:** Powershell/bash scripting idea.
+Q .Powershell/bash scripting idea.
 
-* **Question:** Networking How we can stop all outgoing traffic from azure VM without NSG (Ans - by firewall and route
+Q .Networking How we can stop all outgoing traffic from azure VM without NSG (Ans - by firewall and route
 
-* **Question:** table)?
 

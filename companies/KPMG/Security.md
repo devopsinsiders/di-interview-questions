@@ -1,20 +1,20 @@
 # Security Questions at KPMG
 
-* **Question:** What is SIEM?
+Q .  What is SIEM?
 
-* **Question:** What is SOAR?
+Q .  What is SOAR?
 
-* **Question:** Have you worked with any SIEM or SOAR platforms?
+Q .  Have you worked with any SIEM or SOAR platforms?
 
-* **Question:** What is Cloud Security Posture Management (CSPM)?
+Q .  What is Cloud Security Posture Management (CSPM)?
 
-* **Question:** Which CSPM tools have you worked with?
+Q .  Which CSPM tools have you worked with?
 
-* **Question:** How do you perform vulnerability management for Virtual Machines?
+Q .  How do you perform vulnerability management for Virtual Machines?
 
-* **Question:** Which tools do you use for vulnerability scanning?
+Q .  Which tools do you use for vulnerability scanning?
 
-* **Question:** What is DevSecOps?
+Q .  What is DevSecOps?
 
-* **Question:** What are the roles and responsibilities of a DevSecOps Engineer?
+Q .  What are the roles and responsibilities of a DevSecOps Engineer?
 

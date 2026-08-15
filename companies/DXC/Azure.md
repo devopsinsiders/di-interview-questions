@@ -1,10 +1,10 @@
 # Azure Questions at DXC
 
---> Which branching strategy do you recommend in Azure DevOps?
+Q . Which branching strategy do you recommend in Azure DevOps?
 
---> Do you have experience with Azure RBAC?
+Q . Do you have experience with Azure RBAC?
 
---> How do you manage secrets? (Azure Key Vault)?
+Q . How do you manage secrets? (Azure Key Vault)?
 
 Q. If we want to migrate 100 VMs from on-premises, what is your approach?
 
