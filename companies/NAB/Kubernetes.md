@@ -1,6 +1,6 @@
 # Kubernetes Questions at NAB
 
-* **Question:** How would you design a CI/CD pipeline for deploying applications to a multi-region AKS/EKS
+Q . What deployment strategies are available in Kubernetes?
 
-* **Question:** cluster?
+Q . How would you design a CI/CD pipeline for deploying applications to a multi-region AKS/EKS cluster?
 

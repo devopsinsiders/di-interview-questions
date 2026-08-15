@@ -1,6 +1,3 @@
-# Ansible Questions at LTIMindtree
+Q . Why is Ansible Agentless?
 
-* **Question:** Why is Ansible Agentless?
-
-* **Question:** How would you use Ansible?
-
+Q . How would you use Ansible?

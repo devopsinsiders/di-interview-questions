@@ -1,22 +1,22 @@
 # Azure Questions at NAB
 
-* **Question:** How would you integrate Azure Key Vault into a CI/CD pipeline?
+Q . When would you use Managed Identity instead of a Service Principal?
 
-* **Question:** How would you authenticate your CI/CD pipeline with Azure or AWS?
+Q . How would you integrate Azure Key Vault into a CI/CD pipeline?
 
-* **Question:** 65 How would Private Endpoints improve pipeline security?
+Q . How would you authenticate your CI/CD pipeline with Azure or AWS?
 
-* **Question:** How would you secure communication between Azure Bastion and a Production VM?
+Q . How would Private Endpoints improve pipeline security?
 
-* **Question:** What security configurations would you implement for Bastion access?
+Q . How would you secure communication between Azure Bastion and a Production VM?
 
-* **Question:** How would you secure communication between a Bastion Host and a Production Server?
+Q . What security configurations would you implement for Bastion access?
 
-* **Question:** How would you approach migrating workloads from AWS to Azure?
+Q . How would you secure communication between a Bastion Host and a Production Server?
 
-* **Question:** How would you manage a multi-cloud environment (AWS, Azure, and GCP)?
+Q . How would you approach migrating workloads from AWS to Azure?
 
-* **Question:** How would you ensure secure communication between users, Bastion Hosts, and Production
+Q . How would you manage a multi-cloud environment (AWS, Azure, and GCP)?
 
-* **Question:** Servers?
+Q . How would you ensure secure communication between users, Bastion Hosts, and Production Servers?
 

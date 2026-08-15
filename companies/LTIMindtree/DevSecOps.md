@@ -1,18 +1,12 @@
 # DevSecOps Questions at LTIMindtree
 
-* **Question:** 60 You mentioned using SonarQube for SAST scanning. Can you explain how you integrated
+Q . What is Dynamic Application Security Testing (DAST)?
 
-* **Question:** SonarQube with Azure DevOps Pipelines? At which stage of the pipeline do you perform SAST scanning?
+Q . You mentioned using SonarQube for SAST scanning. Can you explain how you integrated SonarQube 
+with Azure DevOps Pipelines?
 
-* **Question:** After the SonarQube scan is completed, how does the pipeline decide whether to continue or
+Q . At which stage of the pipeline do you perform SAST scanning?
 
-* **Question:** stop? At which stage of the DevSecOps lifecycle do you perform DAST scanning?
+Q . After the SonarQube scan is completed, how does the pipeline decide whether to continue or stop?
 
-* **Question:** Troubleshooting Have you worked on Windows Servers?
-
-* **Question:** Suppose one of your Windows Virtual Machines suddenly starts flickering and eventually shows a
-
-* **Question:** Blue Screen of Death (BSOD). What would be your troubleshooting approach? If a virtual machine becomes unavailable due to a Blue Screen of Death (BSOD), what
-
-* **Question:** troubleshooting steps would you follow?
-
+Q . At which stage of the DevSecOps lifecycle do you perform DAST scanning?

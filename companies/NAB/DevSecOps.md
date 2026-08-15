@@ -1,4 +1,4 @@
 # DevSecOps Questions at NAB
 
-* **Question:** Where would you integrate SonarQube in the pipeline?
+Q . Where would you integrate SonarQube in the pipeline?
 

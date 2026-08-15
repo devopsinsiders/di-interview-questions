@@ -1,6 +1,4 @@
 # Security Questions at Quess
 
-* **Question:** Production Support How would you automate deployment validation and rollback?
-
-* **Question:** 73
+Q . How would you prevent hardcoded secrets in your applications?
 

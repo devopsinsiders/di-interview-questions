@@ -1,8 +1,7 @@
 # Behavioral Questions at Nisum (Sr DevOps)
 
-* **Question:** How do you handle conflicts within your team?
+Q . Walk me through your project and your day-to-day activities.
 
-* **Question:** Do you have any questions for me?
+Q . How do you handle conflicts within your team?
 
-* **Question:** 67
-
+Q . Do you have any questions for me?

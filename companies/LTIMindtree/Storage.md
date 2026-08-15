@@ -1,10 +1,7 @@
-# Storage Questions at LTIMindtree
+Q . How would you set IOPs for an EBS volume.
 
-* **Question:** How would you set IOPs for an EBS volume.
+Q . How you would leverage costing in S3 bucket's data?
 
-* **Question:** How you would leverage costing in S3 bucket's data?
+Q . Which Azure Blob Storage type is used to store a Virtual Machine's OS disk?
 
-* **Question:** Which Azure Blob Storage type is used to store a Virtual Machine's OS disk?
-
-* **Question:** How will you secure S3 bucket.
-
+Q . How will you secure S3 bucket.

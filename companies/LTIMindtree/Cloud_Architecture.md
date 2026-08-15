@@ -1,4 +1,4 @@
 # Cloud Architecture Questions at LTIMindtree
 
-* **Question:** What is management group?
+Q . What is management group?
 

@@ -1,4 +1,4 @@
 # System Design Questions at Quess
 
-* **Question:** Quest Global (R1 — 06-08-2026)
+Q . How would you design a secure cloud architecture for a banking application?
 

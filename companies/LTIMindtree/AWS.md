@@ -1,6 +1,3 @@
-# AWS Questions at LTIMindtree
+Q . How will you secure S3 bucket.
 
-* **Question:** How will you secure S3 bucket.
-
-* **Question:** What is transit gateway.
-
+Q . What is transit gateway.

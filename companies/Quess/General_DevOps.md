@@ -1,24 +1,26 @@
 # General DevOps Questions at Quess
 
-* **Question:** validation succeed in the previous region? How would you implement automated deployment promotion between regions?
+Q . How would you ensure that deployment to the next region only happens if deployment and validation 
+succeed in the previous region?
 
-* **Question:** How does authentication work between the Version Control System and the Cloud?
+Q . How would you implement automated deployment promotion between regions?
 
-* **Question:** Explain Rolling Update, Canary, and Blue-Green deployment strategies.
+Q . How does authentication work between the Version Control System and the Cloud?
 
-* **Question:** What are the differences, and which one is the most cost-effective?
+Q . Explain Rolling Update, Canary, and Blue-Green deployment strategies.
 
-* **Question:** Why should Production VMs not have Public IP addresses?
+Q . What are the differences, and which one is the most cost-effective?
 
-* **Question:** What networking security measures would you implement for Production workloads?
+Q . Why should Production VMs not have Public IP addresses?
 
-* **Question:** How would you perform infrastructure migration with minimal downtime?
+Q . What networking security measures would you implement for Production workloads?
 
-* **Question:** What are the differences, and when would you use each?
+Q . How would you perform infrastructure migration with minimal downtime?
 
-* **Question:** How would you achieve zero-downtime deployments?
+Q . What are the differences, and when would you use each?
 
-* **Question:** How would you verify that an application deployment is successful from both a system and an end-
+Q . How would you achieve zero-downtime deployments?
 
-* **Question:** user perspective?
+Q . How would you verify that an application deployment is successful from both a system and an end
+user perspective?
 
