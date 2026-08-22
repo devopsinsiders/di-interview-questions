@@ -1,0 +1,15 @@
+1) Introduce about yourself and roles and responsibilities?
+2) have you worked on aws or azure?
+3) scenario: users are lagging the application , debug the steps
+4) In dynamodb if database if full, then how new data will be stored, design this?
+5) pod ip keep on changing when ever it get deleted, then how the new pod get to know to connect to particular deployment?
+
+6) design the application by removing single point of contact (SPC)?
+7) i have 100's of ip in ansible inventory but i want to update configuration in only 10 ip servers ? how?
+
+8) suppose i have run terraform apply cmd, and it keep on running for 12 hrs and after that IAM role permission expired how terraform will run again and what happens in bakend and what type of role would you give to terraform/
+
+9) write the jeninks pipeline and how you have optimized by 30%?
+10) have you worked on transit gateway? explain?
+11) how traffic flows from user to pod/appication?
+12) design how my application can handle 1 million traffic per second? adn what services you will implement along with best security practices and cost optimization?
