@@ -1,24 +1,24 @@
 # Monitoring Questions at Publicis Sapient (1st Round - 30-07-2026)
 
-* **Question:** Have you worked with any APM (Application Performance Monitoring) tools?
+Q .  Have you worked on Azure Monitor?
 
-* **Question:** Why are you using Azure Monitor?
+Q .  Have you worked with any APM (Application Performance Monitoring) tools?
 
-* **Question:** How does Azure Monitor work internally?
+Q .  Why are you using Azure Monitor?
 
-* **Question:** How are logs collected in Azure Monitor?
+Q .  How does Azure Monitor work internally?
 
-* **Question:** What is the role of Log Analytics Workspace?
+Q .  How are logs collected in Azure Monitor?
 
-* **Question:** How do you build dashboards and monitor application or infrastructure metrics?
+Q .  What is the role of Log Analytics Workspace?
 
-* **Question:** How are logging, monitoring, and observability implemented across your platform?
+Q .  How do you build dashboards and monitor application or infrastructure metrics?
 
-* **Question:** Which monitoring tools have you used?
+Q .  How are logging, monitoring, and observability implemented across your platform?
 
-* **Question:** How does New Relic work?
+Q .  Which monitoring tools have you used?
 
-* **Question:** How does Azure Monitor compare with New Relic?
+Q .  How does New Relic work?
 
-* **Question:** 114
+Q .  How does Azure Monitor compare with New Relic?
 
