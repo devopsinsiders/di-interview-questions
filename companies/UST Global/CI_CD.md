@@ -10,3 +10,9 @@
 
 * **Question:** How will you run parallel pipelines?
 
+Q. Tell me your infra pipeline workflow.
+
+Q. If I want to connect any CI/CD tool with Azure, what will be your steps?
+
+Q. Where do you store the secrets in GitHub Actions?
+

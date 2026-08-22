@@ -70,5 +70,13 @@ Q .  What are the roles and responsibilities of a DevSecOps Engineer?
 
 Q .  Behavioral Introduce yourself.
 
-Q .  KPMG (31-07-2026)
+Q2. Write a recently used Trivy code.
+
+Q3. Write recently used Terraform code.
+
+Q4. Write recently used Terraform Azure Policy code.
+
+Q5. Explain your complete security implementation in the pipeline.
+
+Q6. Explain how you would secure an application from build → deployment → monitoring → threat detection.
 

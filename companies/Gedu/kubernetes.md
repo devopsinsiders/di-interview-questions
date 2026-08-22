@@ -1,0 +1,1 @@
+Q1. In AKS, what is the difference between a Label and a Selector?

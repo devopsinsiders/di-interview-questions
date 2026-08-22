@@ -1,0 +1,1 @@
+Q. Do you have experience with database and SQL troubleshooting?

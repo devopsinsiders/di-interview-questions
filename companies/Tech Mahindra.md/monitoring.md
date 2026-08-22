@@ -1,0 +1,1 @@
+Q. How do you integrate Azure Monitor with Prometheus in a bare-metal environment? Do you have knowledge of Azure Monitor managed service for Prometheus?

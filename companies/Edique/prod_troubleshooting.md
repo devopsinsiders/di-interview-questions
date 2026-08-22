@@ -1,0 +1,1 @@
+Q. What will happen if someone deleted resource from cloud so how you will detect and reacreate the resource? How will you automate this?
