@@ -1,12 +1,12 @@
 # Behavioral Questions at TCS
 
-* **Question:** Brief me about yourself, your skill set, and your current project.
+Q .  Brief me about yourself, your skill set, and your current project.
 
-* **Question:** Explain your recent project end-to-end.
+Q .  Explain your recent project end-to-end.
 
-* **Question:** Where you will see yourself after 3 ye?
+Q .  Where you will see yourself after 3 ye?
 
-* **Question:** What is your team size as an Architect?
+Q .  What is your team size as an Architect?
 
-* **Question:** Day-to-day DevOps project implementation questions.
+Q .  Day-to-day DevOps project implementation questions.
 

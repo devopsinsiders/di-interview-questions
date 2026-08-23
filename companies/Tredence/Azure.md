@@ -1,8 +1,8 @@
 # Azure Questions at Tredence
 
-* **Question:** IP? Private link and private endpoint.
+Q .  In VNet having two subnets, how will you know which subnet has public IP and which has private IP
 
-* **Question:** Authentication in azure devops and azure portal.
+Q .  Private link and private endpoint.
 
-* **Question:** Tru Technologies (31-07-2026)
+Q .  Authentication in azure devops and azure portal.
 

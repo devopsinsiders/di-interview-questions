@@ -1,6 +1,6 @@
 # AWS Questions at Wipro
 
-* **Question:** Difference between Security Group and NACL (AWS)?
+Q .  Difference between Security Group and NACL (AWS)?
 
-* **Question:** Difference between Security Groups and NACL.
+Q .  Difference between Security Groups and NACL.
 

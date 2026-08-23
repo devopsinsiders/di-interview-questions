@@ -1,38 +1,41 @@
 # General DevOps Questions at TCS
 
-* **Question:** What is the default SSH port number?
+• What is the default RDP port number?
 
-* **Question:** What is provider.tf? What is configured in it?
+• What is the default SSH port number?
 
-* **Question:** What is the difference between CI and CD?
+• What is provider.tf? What is configured in it?
 
-* **Question:** How would you implement Azure Firewall?
+• What is the difference between CI and CD?
 
-* **Question:** How would you define and control traffic flow in Azure?
+• How would you implement Azure Firewall?
 
-* **Question:** How would you compare configurations across environments?
+• How would you define and control traffic flow in Azure?
 
-* **Question:** How would you standardize Dev, QA, and Production environments?
+• How would you compare configurations across environments?
 
-* **Question:** Have you ever designed and implemented an isolated environment with proper security controls?
+• How would you standardize Dev, QA, and Production environments?
 
-* **Question:** If yes, explain the architecture and security measures you implemented. How do you configure a Subnet in Azure? Explain the step-by-step process.
+• Have you ever designed and implemented an isolated environment with proper security controls? If 
+yes, explain the architecture and security measures you implemented.
 
-* **Question:** If you need to modify an application running inside a VM, what precautions should you take?
+• How do you configure a Subnet in Azure? Explain the step-by-step process.
 
-* **Question:** If a VM cannot communicate with the Internet, what could be the possible reasons?
+• If you need to modify an application running inside a VM, what precautions should you take?
 
-* **Question:** Production deployment succeeded, but the application is unavailable. How would you
+• If a VM cannot communicate with the Internet, what could be the possible reasons?
 
-* **Question:** troubleshoot it? Deployment works in Dev but consistently fails in QA. How would you troubleshoot it?
+• Production deployment succeeded, but the application is unavailable. How would you troubleshoot it?
 
-* **Question:** As an Architect, how do you interact with clients? Who approves the changes in the Production
+• Deployment works in Dev but consistently fails in QA. How would you troubleshoot it?
 
-* **Question:** environment before deployment---you or the client's architect/change approval board? What is configured in it?
+• As an Architect, how do you interact with clients? Who approves the changes in the Production 
+environment before deployment---you or the client's architect/change approval board?
 
-* **Question:** Explain the step-by-step process.
+• What is configured in it?
 
-* **Question:** DevOps hands-on implementation questions.
+• Explain the step-by-step process.
 
-* **Question:** Networking
+
+
 

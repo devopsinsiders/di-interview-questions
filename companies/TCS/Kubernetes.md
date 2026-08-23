@@ -1,12 +1,13 @@
 # Kubernetes Questions at TCS
 
-* **Question:** How will you implement security for an AKS (Azure Kubernetes Service) cluster?
+Q .  How will you implement security for an AKS (Azure Kubernetes Service) cluster?
 
-* **Question:** What is AKS (Azure Kubernetes Service)? How do you write a YAML manifest in Kubernetes to create a Pod?
+Q .  What is AKS (Azure Kubernetes Service)? How do you write a YAML manifest in Kubernetes to create a 
+Pod?
 
-* **Question:** Scenario-based Docker questions.
+Q .  Scenario-based Docker questions.
 
-* **Question:** Scenario-based Kubernetes questions.
+Q .  Scenario-based Kubernetes questions.
 
-* **Question:** Troubleshooting scenarios related to Docker and Kubernetes.
+Q .  Troubleshooting scenarios related to Docker and Kubernetes.
 

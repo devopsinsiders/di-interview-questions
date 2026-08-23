@@ -1,4 +1,4 @@
 # Kubernetes Questions at UST Global
 
-* **Question:** In Kubernetes, what is HPA?
+Q .  In Kubernetes, what is HPA?
 

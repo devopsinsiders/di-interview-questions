@@ -1,8 +1,8 @@
 # Security Questions at TCS (DevSecOps CoE Screening)
 
-* **Question:** What is Zero Trust Security?
+Q .  What is Zero Trust Security?
 
-* **Question:** Which tools are commonly used for secrets management?
+Q .  Which tools are commonly used for secrets management?
 
-* **Question:** How do you secure Kubernetes?
+Q .  How do you secure Kubernetes?
 

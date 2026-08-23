@@ -1,10 +1,10 @@
 # AI Questions at TCS (DevSecOps CoE Screening)
 
-* **Question:** Explain Agentic AI in DevSecOps.
+Q .  Explain Agentic AI in DevSecOps.
 
-* **Question:** What is Retrieval-Augmented Generation (RAG)?
+Q .  What is Retrieval-Augmented Generation (RAG)?
 
-* **Question:** What are Vector Databases?
+Q .  What are Vector Databases?
 
-* **Question:** What are AI Copilots?
+Q .  What are AI Copilots?
 

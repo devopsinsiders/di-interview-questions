@@ -1,4 +1,4 @@
 # Production Support Questions at TCS
 
-* **Question:** How would you communicate with users/business during a production outage?
+Q .  How would you communicate with users/business during a production outage?
 

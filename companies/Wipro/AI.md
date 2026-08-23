@@ -1,4 +1,4 @@
 # AI Questions at Wipro
 
-* **Question:** Have you worked on LangChain?
+Q .  Have you worked on LangChain?
 

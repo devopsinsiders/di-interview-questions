@@ -1,8 +1,8 @@
 # GitOps Questions at Wipro
 
-* **Question:** What is Blue-Green Deployment?
+Q .  What is Blue-Green Deployment?
 
-* **Question:** What is Canary Deployment?
+Q .  What is Canary Deployment?
 
-* **Question:** Have you worked on ArgoCD?
+Q .  Have you worked on ArgoCD?
 

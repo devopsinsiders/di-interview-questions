@@ -1,6 +1,6 @@
 # Behavioral Questions at Wipro
 
-* **Question:** What is your current role?
+Q .  What is your current role?
 
-* **Question:** Tell me about yourself.
+Q .  Tell me about yourself.
 

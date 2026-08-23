@@ -1,86 +1,86 @@
 # Azure Questions at Wipro
 
-* **Question:** Is your project Azure-based?
+Q .  Is your project Azure-based?
 
-* **Question:** What are Azure DevOps Agents?
+Q .  What are Azure DevOps Agents?
 
-* **Question:** A website becomes slow but Azure Monitor shows everything is green - what will you check?
+Q .  A website becomes slow but Azure Monitor shows everything is green - what will you check?
 
-* **Question:** Have you used Azure Monitor?
+Q .  Have you used Azure Monitor?
 
-* **Question:** How do you secure Azure DevOps?
+Q .  How do you secure Azure DevOps?
 
-* **Question:** How do you secure your Azure environment?
+Q .  How do you secure your Azure environment?
 
-* **Question:** Kubernetes What is CrashLoopBackOff?
+Q .  Kubernetes What is CrashLoopBackOff?
 
-* **Question:** What is HPA (Horizontal Pod Autoscaler)?
+Q .  What is HPA (Horizontal Pod Autoscaler)?
 
-* **Question:** What is Cluster Autoscaler?
+Q .  What is Cluster Autoscaler?
 
-* **Question:** What is Helm Rollback?
+Q .  What is Helm Rollback?
 
-* **Question:** Difference between DaemonSet and Deployment.
+Q .  Difference between DaemonSet and Deployment.
 
-* **Question:** If someone deletes a Kubernetes namespace in Production, what will you do?
+Q .  If someone deletes a Kubernetes namespace in Production, what will you do?
 
-* **Question:** What if Pods become unhealthy after deployment?
+Q .  What if Pods become unhealthy after deployment?
 
-* **Question:** What will you check if the Ingress is not working?
+Q .  What will you check if the Ingress is not working?
 
-* **Question:** How will you troubleshoot CrashLoopBackOff?
+Q .  How will you troubleshoot CrashLoopBackOff?
 
-* **Question:** Suppose a Helm chart change impacts all production clusters. What will you do?
+Q .  Suppose a Helm chart change impacts all production clusters. What will you do?
 
-* **Question:** Do you have AWS experience?
+Q .  Do you have AWS experience?
 
-* **Question:** Have you worked on ArgoCD?
+Q .  Have you worked on ArgoCD?
 
-* **Question:** Suppose a Helm chart change impacts all production clusters - what will you do?
+Q .  Suppose a Helm chart change impacts all production clusters - what will you do?
 
-* **Question:** Terraform Why do we store the State File remotely?
+Q .  Terraform Why do we store the State File remotely?
 
-* **Question:** What is the Terraform workflow?
+Q .  What is the Terraform workflow?
 
-* **Question:** What is Configuration Drift?
+Q .  What is Configuration Drift?
 
-* **Question:** What is Terraform Taint? (he asked "terraform taint")?
+Q .  What is Terraform Taint? (he asked "terraform taint")?
 
-* **Question:** What is Terraform State File?
+Q .  What is Terraform State File?
 
-* **Question:** How do you integrate Terraform with Azure DevOps?
+Q .  How do you integrate Terraform with Azure DevOps?
 
-* **Question:** What happens if someone manually changes a resource managed by Terraform?
+Q .  What happens if someone manually changes a resource managed by Terraform?
 
-* **Question:** What happens if someone manually changes an AWS resource managed by Terraform?
+Q .  What happens if someone manually changes an AWS resource managed by Terraform?
 
-* **Question:** What happens if Terraform Apply fails after creating some resources?
+Q .  What happens if Terraform Apply fails after creating some resources?
 
-* **Question:** How do you recover a deleted Terraform State File?
+Q .  How do you recover a deleted Terraform State File?
 
-* **Question:** Which command do you use to recover Terraform State?
+Q .  Which command do you use to recover Terraform State?
 
-* **Question:** Difference between Terraform Plan and Apply.
+Q .  Difference between Terraform Plan and Apply.
 
-* **Question:** What is Terraform Taint?
+Q .  What is Terraform Taint?
 
-* **Question:** Pipeline deployment fails because backend is inaccessible - how will you fix it?
+Q .  Pipeline deployment fails because backend is inaccessible - how will you fix it?
 
-* **Question:** AWS Difference between Security Group and NACL (AWS)?
+Q .  AWS Difference between Security Group and NACL (AWS)?
 
-* **Question:** Difference between Security Groups and NACL.
+Q .  Difference between Security Groups and NACL.
 
-* **Question:** Monitoring Have you used Azure Monitor?
+Q .  Monitoring Have you used Azure Monitor?
 
-* **Question:** Have you used Nagios?
+Q .  Have you used Nagios?
 
-* **Question:** A website becomes slow but Azure Monitor shows everything is green. What will you check?
+Q .  A website becomes slow but Azure Monitor shows everything is green. What will you check?
 
-* **Question:** Which monitoring tool have you used?
+Q .  Which monitoring tool have you used?
 
-* **Question:** How do you monitor deployments?
+Q .  How do you monitor deployments?
 
-* **Question:** Security What will you do if vulnerability scanning reports a critical vulnerability?
+Q .  Security What will you do if vulnerability scanning reports a critical vulnerability?
 
-* **Question:** 91
+Q .  91
 

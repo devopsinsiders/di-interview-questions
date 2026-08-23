@@ -1,6 +1,6 @@
 # Monitoring Questions at TCS (DevSecOps CoE Screening)
 
-* **Question:** Which tools are used for observability?
+Q .  Which tools are used for observability?
 
-* **Question:** What is OpenTelemetry?
+Q .  What is OpenTelemetry?
 

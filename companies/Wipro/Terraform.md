@@ -1,30 +1,30 @@
 # Terraform Questions at Wipro
 
-* **Question:** Why do we store the State File remotely?
+Q .  Why do we store the State File remotely?
 
-* **Question:** What is the Terraform workflow?
+Q .  What is the Terraform workflow?
 
-* **Question:** What is Configuration Drift?
+Q .  What is Configuration Drift?
 
-* **Question:** What is Terraform Taint? (he asked "terraform taint")?
+Q .  What is Terraform Taint? (he asked "terraform taint")?
 
-* **Question:** What is Terraform State File?
+Q .  What is Terraform State File?
 
-* **Question:** How do you integrate Terraform with Azure DevOps?
+Q .  How do you integrate Terraform with Azure DevOps?
 
-* **Question:** What happens if someone manually changes a resource managed by Terraform?
+Q .  What happens if someone manually changes a resource managed by Terraform?
 
-* **Question:** What happens if someone manually changes an AWS resource managed by Terraform?
+Q .  What happens if someone manually changes an AWS resource managed by Terraform?
 
-* **Question:** What happens if Terraform Apply fails after creating some resources?
+Q .  What happens if Terraform Apply fails after creating some resources?
 
-* **Question:** How do you recover a deleted Terraform State File?
+Q .  How do you recover a deleted Terraform State File?
 
-* **Question:** Which command do you use to recover Terraform State?
+Q .  Which command do you use to recover Terraform State?
 
-* **Question:** Difference between Terraform Plan and Apply.
+Q .  Difference between Terraform Plan and Apply.
 
-* **Question:** What is Terraform Taint?
+Q .  What is Terraform Taint?
 
-* **Question:** Pipeline deployment fails because backend is inaccessible - how will you fix it?
+Q .  Pipeline deployment fails because backend is inaccessible - how will you fix it?
 
