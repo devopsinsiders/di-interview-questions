@@ -15,3 +15,5 @@ Q7. What is your first action when you identify a threat?
 Q8. How would you investigate a security alert in Defender for Cloud?
 
 Q9. How would you respond to a security incident detected by Defender for Cloud?
+
+Q . Have you worked on Microsoft Defender for Cloud?

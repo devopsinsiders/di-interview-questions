@@ -17,3 +17,5 @@ Q6. How would you scan container images before deployment?
 Q7. How would you scan Terraform/IaC code in a pipeline?
 
 Q8. How would you prevent deployment if a critical security vulnerability is detected?
+
+Q . How do you enforce a manual review/approval gate in a GitHub Actions pipeline between the terraform plan stage and the terraform apply stage so that it doesn't automatically deploy?

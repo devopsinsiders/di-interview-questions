@@ -1,0 +1,1 @@
+1. Can you tell me about your technical experience, current role and responsibilities in Azure Landing Zone? 

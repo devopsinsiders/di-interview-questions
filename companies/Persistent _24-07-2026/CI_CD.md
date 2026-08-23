@@ -12,3 +12,4 @@ Q . Which tool will you use in CI-CD to check in at all stages?
 
 Q . What is classic deployment versus CI-CD deployment?
 
+Q. How to connect CI/CD with Azure?

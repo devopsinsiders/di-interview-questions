@@ -80,3 +80,10 @@ Q5. Explain your complete security implementation in the pipeline.
 
 Q6. Explain how you would secure an application from build → deployment → monitoring → threat detection.
 
+Q. Your application is running fine, suddenly some issue came. What will you check?
+
+Q . Suppose I have a Windows Server hosting an application, and I want to make sure the way a user connects and logs into that server is secure. According to you, what should be done for those Windows Servers?
+
+Q . When you log on to a Windows Server, do you get a pop-up to use MFA?
+
+Q .Do you have Bastion in your hub-and-spoke setup, or are you using a single Bastion in your current organization?

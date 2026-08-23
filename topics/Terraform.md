@@ -35,3 +35,5 @@ Q. What are Terraform provisioners?
 Q. What is the difference between local-exec and remote-exec?
 
 Q. Why should provisioners generally be avoided in Terraform?
+
+Q. You have one state file in your storage account in your project and that state file is moved to another place. In that case, what will happen if you run terraform plan?

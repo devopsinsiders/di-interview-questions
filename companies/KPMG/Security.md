@@ -54,3 +54,9 @@ Q17. Explain your complete security implementation in the pipeline.
 
 Q18. Explain how you would secure an application from build → deployment → monitoring → threat detection.
 
+ Q . If you connect to a virtual machine in your subscription (e.g., via RDP or other options), how do you secure that form of connection? Are you controlling access using another tool (e.g., Bastion)?
+
+ Q . If someone goes to the Azure portal and changes an inbound traffic rule to public, creating a security issue, how do you address this issue, and what steps would you take to prevent resources from being exposed publicly?
+
+
+

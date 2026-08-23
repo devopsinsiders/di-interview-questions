@@ -47,3 +47,13 @@ Q4. What is a use case for Microsoft Sentinel?
 Q5. How would you implement a security monitoring use case using Microsoft Sentinel?
 
 Q6. How does Microsoft Sentinel integrate with Defender for Cloud and other security services?
+
+Q . Do you have experience with Azure policies?
+
+Q . What are the different Azure policy effects?
+
+Q . How many types of policies are there?
+
+Q . Are you managing RBAC (Role-Based Access Control) rules?
+
+Q . What is the difference between active and eligible assignments in Azure PIM? When would you assign an active permission vs. an eligible permission?

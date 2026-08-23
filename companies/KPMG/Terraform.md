@@ -20,3 +20,16 @@ Q6. Write recently used Terraform code.
 
 Q7. Write recently used Terraform Azure Policy code.
 
+Q . What resources have you deployed using Terraform?
+
+Q . When deploying Windows virtual machines using Terraform modules, how are you managing/handling the passwords for those machines?
+
+Q . Storing passwords in Key Vault works for a few VMs, but if you have 1,000 VMs that each require a unique password, how do you handle that in a fully automated way?
+
+Q . Which security tools are you using to scan your Terraform code? (Follow-up on tfsec, tflint, git-leaks, and checkov).
+
+Q . How have you integrated Checkov into your pipeline?
+
+Q . What were some of the specific errors or findings you have gotten through Checkov?
+
+

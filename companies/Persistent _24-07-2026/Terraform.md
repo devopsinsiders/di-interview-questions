@@ -10,3 +10,7 @@ Q . Suppose you run your code in CI-CD and it succeeds — if you run it again, 
 
 Q . Where do you store the state file remotely, and how do you pass it in code?
 
+Q. Someone accidentally ran terraform destroy. What will be your steps to prevent it now and in the future?
+
+Q. You do not have access to some repository, but you want to use those resource blocks in your repository. How will you do that?
+

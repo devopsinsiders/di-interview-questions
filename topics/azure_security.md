@@ -23,3 +23,7 @@ Q. How would you remove a secret from Git history?
 Q. Do you need to rewrite all Git commits to remove an exposed secret?
 
 Q. How would you prevent secrets from being committed again?
+
+Q. What are you doing for security purpose?
+
+Q. You have your credentials stored in your Key Vault, and you have to fetch those credentials. How will you fetch them?
