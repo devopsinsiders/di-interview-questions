@@ -30,3 +30,19 @@ Q . Explain your Terraform project folder structure.
 
 Q . How do you implement security in Terraform-based AKS deployments?
 
+
+Q . If the Terraform state file is moved from one subscription/location to another subscription/location, what impact will it have on the resources?
+
+        After moving the state file, what will happen if we update an existing resource?
+
+        Will the pipeline fail?
+
+        Will the resources fail or get recreated?
+
+        What action items should be taken to safely move the Terraform state file?
+
+        Can the Terraform state file be moved?
+
+q. What initial prerequisites are required to deploy a service/resource through Terraform?
+
+    What prerequisites are required from the Terraform side for deployment?

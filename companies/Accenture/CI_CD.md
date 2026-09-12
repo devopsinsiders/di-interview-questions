@@ -31,4 +31,11 @@ Q .As a DevOps Team Lead, what kind of documents do you maintain (Runbooks, SOPs
 Diagrams, Deployment Guides, RCA documents, Release Notes, Change Requests)?
 
 
+Q1. What is GitHub Actions? Explain its uses and features.
+
+Q2. How would you implement security checks in a CI/CD pipeline?
+
+Q3. Suppose your pipeline passes all security stages successfully and the application is deployed, but some issue occurs and the application is not running. How would you troubleshoot and resolve the issue?
+
+
 

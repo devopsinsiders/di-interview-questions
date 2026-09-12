@@ -57,3 +57,19 @@ Q . How many types of policies are there?
 Q . Are you managing RBAC (Role-Based Access Control) rules?
 
 Q . What is the difference between active and eligible assignments in Azure PIM? When would you assign an active permission vs. an eligible permission?
+
+
+Q1. What is the difference between the Storage Account Contributor role and the Storage Blob Data Contributor role?
+
+Q2. I have given you a Contributor role as an eligible assignment. Can you guide me through the Azure Portal on how you would activate/use that eligible assignment?
+
+Q3. What types of Azure Policies are there?
+
+
+The areas you should particularly prepare next are:
+
+Azure RBAC: Owner vs Contributor vs Reader
+Key Vault RBAC: Key Vault roles and secret access
+Eligible assignments / PIM
+Storage Account Contributor vs Storage Blob Data Contributor
+Azure Policy: policy definition, initiative, assignment, effects

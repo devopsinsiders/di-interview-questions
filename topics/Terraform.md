@@ -37,3 +37,32 @@ Q. What is the difference between local-exec and remote-exec?
 Q. Why should provisioners generally be avoided in Terraform?
 
 Q. You have one state file in your storage account in your project and that state file is moved to another place. In that case, what will happen if you run terraform plan?
+
+
+Q. What is the basic difference between terraform plan and terraform apply?
+
+Q. What is a Terraform state file, and why is it important?
+
+Q. What is the use of output variables in Terraform?
+
+Q. What is a Terraform backend?
+
+Q. What is the difference between for_each and count in Terraform?
+
+Q. Can you specify the number of resources using count in Terraform?
+
+Q. What is a data source in Terraform?
+
+Q. What is the command to upgrade provider versions in Terraform?
+
+Q. What is the purpose of the .terraform.lock.hcl file?
+
+Q. What is HCL in Terraform?
+
+Q. What is the purpose of the terraform graph command?
+
+Q. How do you prevent accidental resource deletion in Terraform?
+
+Q. How do you handle resource naming conflicts in Terraform?
+
+Q. What is the purpose of Terraform state commands?

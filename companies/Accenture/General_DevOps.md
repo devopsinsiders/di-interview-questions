@@ -49,3 +49,10 @@ Q .Explain the differences and when to use each.
 Q .How do you handle production errors and conflicts?
 
 
+Q1. Tell me briefly about your role and responsibilities in your current organization.
+
+Q2. Suppose you have a team and it is responsible for CI/CD with mandatory security checks. What would be your approach to training the team?
+
+Q3. What are pre-transition and transition?
+
+
