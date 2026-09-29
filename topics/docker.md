@@ -21,3 +21,11 @@
 18. How do you securely manage secrets in Docker? Why should secrets not be hardcoded in a Dockerfile?
 19. How do you scan Docker images for vulnerabilities? What would you do if a critical CVE is found?
 20. How do you build and deploy a Docker image to Azure Container Registry (ACR) and then deploy it to AKS?
+
+Q1. If a developer gives you application code, how would you deploy it into Docker?
+
+Q2. How would you secure Docker? What steps would you take?
+
+Q3. How does Kubernetes consume an image stored in Azure Container Registry?
+
+Q4. Why would you prefer ACR over Docker Hub in an enterprise Azure environment?

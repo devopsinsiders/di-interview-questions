@@ -214,3 +214,60 @@ Q. Terraform dependency upgrade replacing critical infrastructure
 Q. Terraform apply failure & state recovery
 
 Q. Production approval flow and troubleshooting
+
+
+
+
+Q1. Why do we use Kubernetes?
+
+Q2. Have you worked on Kubernetes? Explain what you have done.
+
+Q3. What exactly have you done in AKS?
+
+Q4. Which service can be used for a serverless-style container deployment when AKS is not required? (Container Apps)
+
+Q5. Before provisioning an AKS cluster, what networking considerations must be taken care of?
+
+Q6. Before provisioning an AKS cluster, what security considerations must be taken care of?
+
+Q7. What networking configuration is required before creating an AKS cluster?
+
+Q8. Is your AKS cluster private or public?
+
+Q9. What is the difference between a private and a public AKS cluster?
+
+Q10. How do you determine whether an AKS cluster is private or public?
+
+Q11. How would you create and configure a private AKS cluster in Azure?
+
+Q12. How do you expose applications running inside Kubernetes?
+
+Q13. Once a Docker image is stored in ACR, how does Kubernetes use it?
+
+Q14. If a developer gives you application code, how would you deploy it in Docker and then Kubernetes?
+
+Q15. What is self-healing in Kubernetes?
+
+Q16. What is CrashLoopBackOff?
+
+Q17. If a Pod keeps restarting repeatedly, what troubleshooting steps would you take?
+
+Q18. If a Pod becomes inaccessible after deployment, how would you detect and troubleshoot it?
+
+Q19. If one Pod is inaccessible while the other nine are working, how would you troubleshoot it?
+
+Q20. How would you troubleshoot a Kubernetes cluster that failed to build because of a missing file/configuration?
+
+Q21. How would you handle a Kubernetes version upgrade when existing Pods/workloads use an older version?
+
+Q22. What is HPA in Kubernetes?
+
+Q23. What is horizontal scaling and vertical scaling?
+
+Q24. Which scaling approach would you prefer, horizontal or vertical, and why?
+
+Q25. Suppose a sudden increase in traffic is expected. What would you consider and how would you prepare the Kubernetes environment?
+
+Q26. If an AKS workload grows beyond the initially provisioned capacity, how would you deploy additional infrastructure?
+
+Q27. Why do you store Docker images in ACR instead of Docker Hub?

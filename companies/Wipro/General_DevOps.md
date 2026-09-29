@@ -84,5 +84,5 @@ Q .  What is Canary Deployment?
 
 Q .  Have you worked on ArgoCD?
 
-Q .  90
+Q1. How will you make a Docker image lighter?
 

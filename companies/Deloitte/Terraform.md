@@ -46,3 +46,10 @@ Q . If the Terraform state file is moved from one subscription/location to anoth
 q. What initial prerequisites are required to deploy a service/resource through Terraform?
 
     What prerequisites are required from the Terraform side for deployment?
+
+
+Q1. Where will you maintain platform resources and Terraform resources?
+
+Q1. What is a dynamic block?
+
+Q2. If the state file is locked, then what will you do to unlock it?

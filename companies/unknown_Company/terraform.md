@@ -25,3 +25,11 @@ Q11. What is the difference between count and map?
 Q12. What is a data block in Terraform?
 
 Q13. How would you differentiate resources created manually from resources created using Terraform?
+
+Q1. Rate yourself in Terraform.
+
+Q2. Define conflict with code.
+
+Q3. What is a state file and how can we manage it? What is Backend Bootstrap?
+
+Q4. How do you handle multiple subscription development in Terraform?

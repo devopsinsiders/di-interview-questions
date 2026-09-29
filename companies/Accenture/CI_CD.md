@@ -38,4 +38,8 @@ Q2. How would you implement security checks in a CI/CD pipeline?
 Q3. Suppose your pipeline passes all security stages successfully and the application is deployed, but some issue occurs and the application is not running. How would you troubleshoot and resolve the issue?
 
 
+Q1. What CI/CD flow would you follow to deploy infrastructure resources?
+
+Q2. What would be the CI/CD flow for application deployment?
+
 

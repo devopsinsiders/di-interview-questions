@@ -28,3 +28,6 @@ Q .  What is Terraform Taint?
 
 Q .  Pipeline deployment fails because backend is inaccessible - how will you fix it?
 
+Q1. What is a Terraform workspace?
+
+Q2. What are Terraform modules?

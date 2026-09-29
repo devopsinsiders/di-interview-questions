@@ -15,5 +15,7 @@ Q . If you upgrade an AKS cluster where an application is currently running, wil
 
 What will happen to application availability during an AKS cluster upgrade?
 
+Q1. How will you secure an AKS environment end to end?
+
 
 

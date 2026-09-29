@@ -18,4 +18,4 @@ Q5. What happens if the DNS fails?
 
 Q1. You want to create 10 identical copies of an Azure VM. What would be your approach?
 
-Q2. How would you differentiate resources created manually from resources created using Terraform?
+Q2. Scrum and overall flow of Agile.

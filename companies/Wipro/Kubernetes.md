@@ -16,3 +16,5 @@ Q .  What if Pods become unhealthy after deployment?
 
 Q .  What will you check if the Ingress is not working?
 
+Q1. If you have installed NGINX on AKS and want to access it externally, how will you do?
+

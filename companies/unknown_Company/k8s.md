@@ -35,3 +35,15 @@ Q7. What is a Liveness Probe in Kubernetes?
 Q8. If one of the nodes in a node pool crashes, what happens to the pods running on that node?
 
 Q9. How would you manage a CrashLoopBackOff error using Prometheus?
+
+Q1. PV vs PVC? What is the purpose of PVC?
+
+Q2. Write Deployment code.
+
+Q3. What are Max Surge, Max Unavailable, and PDB?
+
+Q4. How do pods communicate in Kubernetes?
+
+Q5. How would you achieve zero-downtime deployment in Kubernetes?
+
+Q6. What is the difference between Ingress and Egress traffic in Kubernetes, and how would you control or restrict both using Kubernetes NetworkPolicies?

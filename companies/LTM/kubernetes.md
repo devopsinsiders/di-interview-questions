@@ -13,3 +13,5 @@ Q. How about your experience with GitOps deployments or Helm updates or any othe
 Q. Where do you guys maintain the YAMLs?
 
 Q. How do you deploy them onto the clusters?
+
+Q1. How are pods connecting to each other? What’s the concept behind it and how does communication happen?
